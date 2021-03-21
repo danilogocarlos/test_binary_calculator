@@ -17,10 +17,10 @@ O problema proposto foi a criação de uma calculadora onde o usuário insere do
 
 ## Imagens
 
-[Imagem 01] (/lib/assets/images/img-1.jpeg) 
-[Imagem 02] (/lib/assets/images/img-2.jpeg) 
-[Imagem 03] (/lib/assets/images/img-3.jpeg) 
-[Imagem 04] (/lib/assets/images/img-4.jpeg) 
+[Imagem 01] (https://github.com/danilogocarlos/test_binary_calculator/lib/assets/images/img-1.jpeg) 
+[Imagem 02] (https://github.com/danilogocarlos/test_binary_calculator/lib/assets/images/img-2.jpeg) 
+[Imagem 03] (https://github.com/danilogocarlos/test_binary_calculator/lib/assets/images/img-3.jpeg) 
+[Imagem 04] (https://github.com/danilogocarlos/test_binary_calculator/lib/assets/images/img-4.jpeg) 
 
 ## Links úteis
 
